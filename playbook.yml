@@ -13,4 +13,4 @@
         mode: "0644"
         content: |
           <h1>Bonjour Salmaaa!</h1>
-          <p>Infrastructure décrite en code, versionnée avec Git.</p>
+          <p>Serveur créé par Terraform, configuré par Ansible.</p>
